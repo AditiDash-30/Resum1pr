@@ -1,1 +1,1 @@
-# Resum1pr
+Text based Slot machine game using python completely. Here, the user will deposit a certain amount of money. They are allowed to bet on either one/two/three lines. If they get any lines , we multiply their bet amount by the value of line and add that to the balance.They can play until they want to quit or if they cash out of money.
